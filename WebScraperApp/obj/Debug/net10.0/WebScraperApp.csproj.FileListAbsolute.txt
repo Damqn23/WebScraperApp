@@ -1,0 +1,17 @@
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/bin/Debug/net10.0/WebScraperApp
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/bin/Debug/net10.0/WebScraperApp.deps.json
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/bin/Debug/net10.0/WebScraperApp.runtimeconfig.json
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/bin/Debug/net10.0/WebScraperApp.dll
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/bin/Debug/net10.0/WebScraperApp.pdb
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/bin/Debug/net10.0/HtmlAgilityPack.dll
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScraperApp.csproj.AssemblyReference.cache
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScraperApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScraperApp.AssemblyInfoInputs.cache
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScraperApp.AssemblyInfo.cs
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScraperApp.csproj.CoreCompileInputs.cache
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScrap.BC6A23BD.Up2Date
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScraperApp.dll
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/refint/WebScraperApp.dll
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScraperApp.pdb
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/WebScraperApp.genruntimeconfig.cache
+/Users/damqndimov/Desktop/personal_projects/CSharp/WebScraperApp/WebScraperApp/obj/Debug/net10.0/ref/WebScraperApp.dll

@@ -12,4 +12,15 @@ public class HelperMethods
         var cleaned = Regex.Replace(decoded,@"\s+", " ").Trim();
         return cleaned;
     }
+    
+    public static double ExtractPrice(string priceText)
+    {
+        var cleanedPrice = Regex.Replace(priceText, @"[^\d.]", "");
+        if (double.TryParse(cleanedPrice, System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out double price))
+        {
+            return price;
+        }
+    
+        return 0.0;
+    }
 }

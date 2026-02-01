@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebScraperApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca6578d10261981a13d871d837a846c93c863649")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae7178514f373305d632aac2aa356863be665880")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebScraperApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebScraperApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
